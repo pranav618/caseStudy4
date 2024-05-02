@@ -7,3 +7,6 @@ Create a power bi line chart showing the 3 moving averages - use year as a filte
 1. Please submit the spark code (only java code files)
 2. A screenshot of the output table or snapshot of the csv file produced as output
 3. Screenshot of the powerbi report (do not send the pbix file)
+
+
+<img width="871" alt="Screenshot 2024-03-20 at 12 22 21 PM" src="https://github.com/pranav618/caseStudy4/assets/38262249/d6cd076c-6f02-4d28-8ec2-5eb35068876f">
